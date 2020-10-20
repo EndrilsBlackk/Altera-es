@@ -19,7 +19,7 @@
       <img class="d-block w-100" src="" alt="">
       <div class="carousel-caption d-none d-md-block">
       <h5>fasdkmfklamsdflkmadsf</h5>
-      <p>amksdlfmlkasdmfkla</p>
+      <p>amksdlfmlckasdmfkla</p>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="" alt="">
